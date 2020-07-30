@@ -1,6 +1,6 @@
 ## Getting Started
-- You must have been installed the python (>3.6) and also it's pip3 in your machine.
-- You must download the chrome-webdriver at https://chromedriver.chromium.org/downloads.
+- You must installing python (>3.6) and also it's pip3 in your machine.
+- You must download chrome-webdriver at https://chromedriver.chromium.org/downloads.
 *How am I choosing the webdriver version?* It depends on chrome version that installed in your machine (open this URL in from your chrome: [chrome://settings/help](chrome://settings/help "chrome://settings/help")).
 - Download this project.
 - Install the dependencies by executing:
